@@ -13,8 +13,8 @@
 
 <hr>
 
-###  👉 References
+###  👉 References 🔹
 
-![Google Developers Youtube](https://www.youtube.com/watch?v=ADD-rvsS5z4&t=626s)
-![Stack Overflow](https://stackoverflow.com/questions/53246705/clickable-response-such-as-a-button-in-dialgflow)
-![Google Developer Docs](https://developers.google.com/assistant/app/overview)
+🔹 [Google Developers Youtube](https://www.youtube.com/watch?v=ADD-rvsS5z4&t=626s)
+🔹 [Stack Overflow](https://stackoverflow.com/questions/53246705/clickable-response-such-as-a-button-in-dialgflow)
+🔹 [Google Developer Docs](https://developers.google.com/assistant/app/overview)
