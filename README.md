@@ -7,7 +7,7 @@
 - A List/Card action which helps users find the details of the city
 - Developed using Google DialogFlow and Actions on Google
 
-### Talk To Y Quiz - Status Approved 🔰
+### Talk To Aditya's Developer Quiz - Status Deployed ✅
 - A quiz action which asks Questions for developers related to Programming and Tech Companies.
 - Developed using Google Dialogflow and Actions on Google
 
