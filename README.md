@@ -3,7 +3,7 @@
 
 ![image](https://github.com/thedevilx/Actions-on-Google/blob/master/Assets/Google.gif)
 
-### Talk To Aditya's Travel Agent - Status Deployed ✅
+### Talk To Aditya's Travel Agent - Status Deployed ✅ - But Has Some Bugs 🟥
 - A List/Card action which helps users find the details of the city
 - Developed using Google DialogFlow and Actions on Google
 
