@@ -3,11 +3,11 @@
 
 ![image](https://github.com/thedevilx/Actions-on-Google/blob/master/Assets/Google.gif)
 
-### Talk To Aditya's Travel Agent - Status Deployed ✅ - But Has Some Bugs 🟥
+### Talk To Aditya's Travel Agent - Status Undepolyed 🟥
 - A List/Card action which helps users find the details of the city
 - Developed using Google DialogFlow and Actions on Google
 
-### Talk To Aditya's Developer Quiz - Status Deployed ✅
+### Talk To Aditya's Developer Quiz - Status Undepolyed 🟥
 - A quiz action which asks Questions for developers related to Programming and Tech Companies.
 - Developed using Google Dialogflow and Actions on Google
 
